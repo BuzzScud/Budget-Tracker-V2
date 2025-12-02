@@ -28,11 +28,6 @@ The application will automatically create a `data` directory for storing JSON fi
 python app.py
 ```
 
-Or use the provided script:
-```bash
-./run.sh
-```
-
 2. **Open in Browser**:
 Navigate to `http://localhost:8000` (or open `index.html` directly)
 
@@ -86,4 +81,5 @@ The application uses IndexedDB for client-side storage, supporting up to 500MB o
 
 ## License
 
-GPL-3.0
+MIT
+
